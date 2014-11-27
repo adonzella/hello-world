@@ -7,3 +7,6 @@ inserito un nuovo controllo su....
 
 -----
 un altro controllo su...
+
+------
+modificato login
